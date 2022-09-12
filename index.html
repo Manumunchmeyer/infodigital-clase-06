@@ -80,7 +80,7 @@ El avión cambió la ruta debido a un error del copiloto, que era el piloto al m
 
                         </p>
                     </div>
-                    <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
+                    <div class=" col-lg-11 col-xl-10 col-xxl-9 mx-auto">
                         <object type="image/svg+xml" data="img/grafica-2.svg" class="w-100 my-2">
                             Aquí corresponde un texto o una imagen alternativa
                         </object>
